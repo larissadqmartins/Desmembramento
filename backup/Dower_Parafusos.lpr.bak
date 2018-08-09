@@ -1,0 +1,21 @@
+program Dower_Parafusos;
+
+{$mode objfpc}{$H+}
+
+uses
+  //{$IFDEF UNIX}{$IFDEF UseCThreads}
+  cthreads,
+ // {$ENDIF}{$ENDIF}
+  Interfaces, // this includes the LCL widgetset
+  Forms, uii2c, usobre, LazSerialPort, laz_synapse;
+
+{$R *.res}
+
+begin
+  RequireDerivedFormResource:=True;
+  Application.Initialize;
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TformSobre, formSobre);
+  Application.Run;
+end.
+

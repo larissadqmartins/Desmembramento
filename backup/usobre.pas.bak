@@ -1,0 +1,47 @@
+unit usobre;
+
+{$mode objfpc}{$H+}
+
+interface
+
+uses
+  Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, StdCtrls,
+  Buttons, ExtCtrls;
+
+type
+
+  { TformSobre }
+
+  TformSobre = class(TForm)
+    BitBtn1: TBitBtn;
+    Image1: TImage;
+    Label1: TLabel;
+    procedure BitBtn1Click(Sender: TObject);
+    procedure Image1Click(Sender: TObject);
+  private
+    { private declarations }
+  public
+    { public declarations }
+  end;
+
+var
+  formSobre: TformSobre;
+
+implementation
+
+{$R *.lfm}
+
+{ TformSobre }
+
+procedure TformSobre.BitBtn1Click(Sender: TObject);
+begin
+
+end;
+
+procedure TformSobre.Image1Click(Sender: TObject);
+begin
+
+end;
+
+end.
+
