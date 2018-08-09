@@ -1,0 +1,12 @@
+inicio();
+#lersensor_p1(3);
+movex(-100);
+movey(100);
+liga_valvula_p1(1); 
+liga_valvula_p2(2); 
+liga_valvula_p3(3);
+lersensor_p1(2);
+desliga_valvula_p1(1); 
+desliga_valvula_p2(2); 
+desliga_valvula_p3(3);
+fim();

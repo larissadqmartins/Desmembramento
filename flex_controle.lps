@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="11">
+      <Unit0>
+        <Filename Value="flex_controle.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uii2c.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="2034"/>
+        <CursorPos X="7" Y="2072"/>
+        <FoldState Value=" TCGM6 T3uD06414 T1w40G T6w003*"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="usobre.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="formSobre"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="44"/>
+        <UsageCount Value="285"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../../moscav2/TMQTTClient/MQTTReadThread.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="318"/>
+        <CursorPos Y="347"/>
+        <UsageCount Value="35"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../moscav2/TMQTTClient/MQTT.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="20"/>
+        <CursorPos X="13" Y="39"/>
+        <UsageCount Value="35"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/share/fpcsrc/3.0.0/rtl/unix/bunxh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="85"/>
+        <CursorPos X="15" Y="98"/>
+        <UsageCount Value="12"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="/usr/share/fpcsrc/3.0.0/rtl/objpas/sysutils/osutilsh.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="10"/>
+        <CursorPos X="11" Y="30"/>
+        <UsageCount Value="135"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/lib/lazarus/1.6.2/lcl/extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="228"/>
+        <CursorPos X="3" Y="258"/>
+        <UsageCount Value="2"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../TLazSerial-master/lazserial.pas"/>
+        <UnitName Value="LazSerial"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="464"/>
+        <CursorPos X="108" Y="223"/>
+        <UsageCount Value="139"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/lib/lazarus/1.6.2/lcl/customtimer.pas"/>
+        <UnitName Value="CustomTimer"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="116"/>
+        <CursorPos Y="151"/>
+        <UsageCount Value="61"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="/usr/lib/lazarus/1.6.2/lcl/interfaces/gtk2/gtk2callback.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="2873"/>
+        <CursorPos Y="2905"/>
+        <UsageCount Value="61"/>
+        <Loaded Value="True"/>
+      </Unit10>
+    </Units>
+    <OtherDefines Count="3">
+      <Define0 Value="useCthreads"/>
+      <Define1 Value="-duseCthreads"/>
+      <Define2 Value="useCthreads-"/>
+    </OtherDefines>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="1580" Column="74" TopLine="1562"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2014" Column="60" TopLine="1996"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2140" Column="2" TopLine="2100"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2174" Column="134" TopLine="2120"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2006" Column="4" TopLine="1972"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="1995" Column="13" TopLine="1979"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2138" Column="38" TopLine="1979"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="1834" Column="27" TopLine="1817"/>
+      </Position8>
+      <Position9>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2138" Column="31" TopLine="2118"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2011" Column="6" TopLine="1998"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2172" Column="34" TopLine="2153"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2161" Column="16" TopLine="2122"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2145" Column="31" TopLine="2116"/>
+      </Position13>
+      <Position14>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2247" Column="49" TopLine="2215"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2472" Column="28" TopLine="2440"/>
+      </Position15>
+      <Position16>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="3235" Column="24" TopLine="3203"/>
+      </Position16>
+      <Position17>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="1839" Column="4" TopLine="1801"/>
+      </Position17>
+      <Position18>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="2247" Column="49" TopLine="2215"/>
+      </Position18>
+      <Position19>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="3148" Column="3" TopLine="3110"/>
+      </Position19>
+      <Position20>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="1988" Column="36" TopLine="1968"/>
+      </Position20>
+      <Position21>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="243" Column="33" TopLine="224"/>
+      </Position21>
+      <Position22>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="1988" Column="36" TopLine="1956"/>
+      </Position22>
+      <Position23>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="243" Column="33" TopLine="224"/>
+      </Position23>
+      <Position24>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="1988" Column="36" TopLine="1956"/>
+      </Position24>
+      <Position25>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="243" Column="33" TopLine="224"/>
+      </Position25>
+      <Position26>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="1988" Column="36" TopLine="1956"/>
+      </Position26>
+      <Position27>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="243" Column="33" TopLine="224"/>
+      </Position27>
+      <Position28>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="1834" Column="8" TopLine="1826"/>
+      </Position28>
+      <Position29>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="1823" Column="14" TopLine="1799"/>
+      </Position29>
+      <Position30>
+        <Filename Value="uii2c.pas"/>
+        <Caret Line="1857" Column="19" TopLine="1818"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="5">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="/usr/lib/lazarus/1.6.2/ide/lazarus.pp"/>
+        <Line Value="150"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="uii2c.pas"/>
+        <Line Value="3362"/>
+      </Item2>
+      <Item3>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="uii2c.pas"/>
+        <Line Value="1097"/>
+      </Item3>
+      <Item4>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="uii2c.pas"/>
+        <Line Value="1714"/>
+      </Item4>
+      <Item5>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="uii2c.pas"/>
+        <Line Value="3169"/>
+      </Item5>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

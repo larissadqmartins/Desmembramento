@@ -1,0 +1,4 @@
+flex_controle
+192.168.0.153
+mago
+1234

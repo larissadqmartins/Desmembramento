@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="i2c.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="26"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ui2c.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="66"/>
+        <CursorPos Y="80"/>
+        <UsageCount Value="26"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="/usr/share/fpcsrc/3.0.0/rtl/unix/baseunix.pp"/>
+        <UnitName Value="BaseUnix"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/lib/lazarus/1.6.2/lcl/include/control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2725"/>
+        <CursorPos X="42" Y="2738"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/lib/lazarus/1.6.2/lcl/interfaces/gtk2/gtk2widgetset.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1133"/>
+        <CursorPos Y="1146"/>
+        <UsageCount Value="12"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/share/fpcsrc/3.0.0/rtl/unix/bunxh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <CursorPos X="51" Y="80"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="2">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ui2c.pas"/>
+        <Line Value="120"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ui2c.pas"/>
+        <Line Value="92"/>
+      </Item2>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
